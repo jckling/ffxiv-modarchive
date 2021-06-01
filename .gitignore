@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+**/.idea
+**/Lib
+**/Scripts
+pyvenv.cfg
+**/go.sum
+chromedriver.exe
+desktop.ini
