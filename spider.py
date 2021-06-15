@@ -268,8 +268,9 @@ def handle_document():
             print("No files: ", a.url)
 
         a.info.pop('Reaction Emojis', None)
-
         a.save()
+
+    driver.quit()
 
 
 if __name__ == '__main__':
